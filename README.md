@@ -88,11 +88,14 @@ python analyze_mean_std_correlation.py --input path/to/per_sample_stats.jsonl
 If you use this code, please cite our paper:
 
 ```bibtex
-@article{decodingpredict2026,
-  title={On the Fundamental Limits of Prefill-Based Decoding Length Prediction},
-  author={[Author Name]},
-  journal={arXiv preprint arXiv:XXXX.XXXXX},
-  year={2026}
+@misc{shi2026fundamentallimitsprefillbaseddecoding,
+      title={On the Fundamental Limits of Prefill-Based Decoding Length Prediction}, 
+      author={Haowen Shi and Xuzhe Yan and Fahao Chen and Peng Li},
+      year={2026},
+      eprint={2610.40541},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2610.40541}, 
 }
 ```
 
